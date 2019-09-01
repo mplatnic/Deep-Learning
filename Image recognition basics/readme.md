@@ -1,3 +1,7 @@
+Neuroph works with JDK7 which is not available
+Install JDK8 from https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+JDK12 tested but does not work.
+
 Download from http://neuroph.sourceforge.net/download.html
 neurophstudio-windows-2.96.exe
 
