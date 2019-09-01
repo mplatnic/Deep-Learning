@@ -48,7 +48,9 @@ one can further strengthen the network against over-fitting by performing K-fold
 
 I am taking the world-famous plot below from wikipedia to show how the validation set helps prevent overfitting. The training error, in blue, tends to decrease as the number of epochs increases: the network is therefore attempting to match the training set exactly. The validation error, in red, on the other hand follows a different, u-shaped profile. The minimum of the curve is when ideally the training should be stopped as this is the point at which the training and validation error are lowest.
 
-![Image description] https://i.stack.imgur.com/8Kguj.png
+![Overfitting](https://i.stack.imgur.com/8Kguj.png)
+
+
 br />
 
 
